@@ -79,6 +79,7 @@
             this.Controls.Add(this.calBookingDate);
             this.Name = "Form1";
             this.Text = "FrmBooking";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

@@ -21,3 +21,6 @@ D:\University\Prof Practice\Room_Management\Room_Management\obj\Debug\Room_Manag
 D:\University\Prof Practice\Room_Management\Room_Management\obj\Debug\Room_Management.pdb
 D:\University\Prof Practice\Room_Management\Room_Management\bin\Debug\RoomBooking.mdb
 E:\University\Prof Practice\Room_Management\Room_Management\bin\Debug\RoomBooking.mdb
+F:\My Documents\GitHub\orinoco-system\Rooms\Room_Booking\VB.NET\Room_Management\Room_Management\bin\Debug\Room_Management.exe.config
+F:\My Documents\GitHub\orinoco-system\Rooms\Room_Booking\VB.NET\Room_Management\Room_Management\obj\Debug\Room_Management.exe
+F:\My Documents\GitHub\orinoco-system\Rooms\Room_Booking\VB.NET\Room_Management\Room_Management\obj\Debug\Room_Management.pdb
